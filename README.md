@@ -47,7 +47,7 @@ English, Hindi, Bengali, Tamil, Telugu, Marathi, Gujarati, Kannada, Malayalam, P
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/indic-document-translator.git
+git clone https://github.com/Abhishek-DS-ML-Gupta/indic-document-translator.git
 cd indic-document-translator
 ```
 
