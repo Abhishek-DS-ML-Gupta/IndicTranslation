@@ -1,0 +1,15 @@
+torch>=2.1.0
+transformers>=4.40.0
+sentencepiece
+sacremoses
+
+IndicTransToolkit @ git+https://github.com/VarunGumma/IndicTransToolkit.git
+
+python-docx
+pdfplumber
+
+gradio>=4.0.0
+
+accelerate
+protobuf
+numpy
