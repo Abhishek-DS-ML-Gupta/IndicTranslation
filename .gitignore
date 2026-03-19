@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.log
+
+# Virtual Environment
+env/
+venv/
+myenv/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# System files
+.DS_Store
+Thumbs.db
+
+# Gradio temp files
+gradio_temp/
+
+# Model cache (IMPORTANT - huge files)
+.cache/
+huggingface/
+*.bin
+*.pt
+
+# Output files
+*_translated_*.docx
+
+# Uploaded files
+uploads/
+
+# PDF/Text temp
+*.pdf
+*.txt
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+*.swp
