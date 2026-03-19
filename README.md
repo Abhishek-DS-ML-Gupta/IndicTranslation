@@ -87,7 +87,7 @@ http://localhost:7860
 
 ## 🖥️ Requirements
 
-* ✅ Python ≥ 3.8
+* ✅ Python ≥ 3.10
 * ✅ NVIDIA GPU (Required)
 * ✅ CUDA Installed
 * ❌ CPU not supported (due to large model size)
